@@ -1,4 +1,11 @@
 ### Hi there 👋
+ *Hi, my name is Zakhar, I'm from Belarus, the city of Minsk.*
+ >to learn more, [see my CV](https://zemapapenko33.github.io/internship/)
+ - 🌱 I’m currently learning: HTML5, CSS3, JS
+
+ - 🏆 Goals for 2022: learn JS, node.js , SQL and React.js
+
+ - ⚡ Facts: productivity begins where laziness ends
 
 <!--
 **ZemaPapenko33/ZemaPapenko33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
