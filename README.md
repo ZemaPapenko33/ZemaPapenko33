@@ -1,6 +1,6 @@
-### Hi there 👋
- *Hi, my name is Zakhar, I'm from Belarus, the city of Minsk.*
- >to learn more, [see my CV](https://zemapapenko33.github.io/internship/)
+### <p align="center">Hi there, [my name is Zakhar](https://zemapapenko33.github.io/internship/)👋
+***
+ *I'm from Belarus, the city of Minsk.*
  - 🌱 I’m currently learning: HTML5, CSS3, JS
 
  - 🏆 Goals for 2022: learn JS, node.js , SQL and React.js
