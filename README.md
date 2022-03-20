@@ -1,4 +1,4 @@
-### <p align="center">Hi there, [my name is Zakhar](https://zemapapenko33.github.io/internship/)👋 
+### <p align="center">Hi there, [my name is Zahar](https://zemapapenko33.github.io/internship/)👋 
 ***
  *I'm from Belarus, the city of Minsk. I want to become a Full Stack developer*
 
